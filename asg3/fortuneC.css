@@ -1,0 +1,16 @@
+#fortuneC {
+    position: relative;
+}
+
+#imageC {
+    max-width: 100%;
+    height: auto;
+}
+
+.txt {
+    position: absolute;
+    font-size: 4vw;
+    max-width: 40%;
+    top: 10px;
+    left: 30px;
+}
